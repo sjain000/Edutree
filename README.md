@@ -87,15 +87,4 @@ $ npm start
 ```
 Now the app should get running on localhost:3000 :
 
-<!-- ## Demo
 
-You can see the demo video of the project below.
-
-<!-- [![Demo Video](https://github.com/pranav750/SpyDark/blob/main/SpyDark.gif)](https://drive.google.com/file/d/1e0V3UxiAkOnxWarhY-CvX1KsRpV2dtAV/view) --> -->
-
-## Links
-
-You will get all the links that are related to the project below-
-
-- [Github Repo's Link](https://github.com/pranav750/CollegeERP) - All the code of Project.
-- [Live Hosted](https://college-erp.netlify.app/) - Website is live on this link.
